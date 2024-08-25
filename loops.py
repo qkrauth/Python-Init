@@ -24,3 +24,10 @@ for name in names:
     if name == "Larry":
         break
     print(name)
+
+
+# for i in names - iterates over elements directly
+
+# for i in range(len(names)) - iterates over index positions
+
+# for i, name in enumerate(names) - iterates over both index and element
